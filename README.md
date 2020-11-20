@@ -1,1 +1,1 @@
-# kottans_course_tea_codacademy_project
+# Kottans course Tea Codacademy Project
